@@ -2,3 +2,4 @@ plexapi
 psutil
 GPUtil
 pyserial
+dotenv
