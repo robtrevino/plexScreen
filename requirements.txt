@@ -1,0 +1,4 @@
+plexapi
+psutil
+GPUtil
+pyserial
